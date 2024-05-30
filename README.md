@@ -2,3 +2,10 @@
 [![Actions Status](https://github.com/Juvvua/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Juvvua/python-project-49/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/4e18993a9667fddd70d6/maintainability)](https://codeclimate.com/github/Juvvua/python-project-49/maintainability)
+
+[![asciicast](https://asciinema.org/a/LGzxF65owzCCodjxvXJdSyUj8.svg)](https://asciinema.org/a/LGzxF65owzCCodjxvXJdSyUj8)
+[![asciicast](https://asciinema.org/a/GVT4E8Nn9ekOWvugdhkaEyrGQ.svg)](https://asciinema.org/a/GVT4E8Nn9ekOWvugdhkaEyrGQ)
+[![asciicast](https://asciinema.org/a/P1E8qxmkT7VrV8ThAJdYdzobw.svg)](https://asciinema.org/a/P1E8qxmkT7VrV8ThAJdYdzobw)
+
+[![asciicast](https://asciinema.org/a/7h2kWS3DmgDPSiWq7cLbQlcQx.svg)](https://asciinema.org/a/7h2kWS3DmgDPSiWq7cLbQlcQx)
+[![asciicast](https://asciinema.org/a/SdYnDZgnyKXPokehyBi5GQ29k.svg)](https://asciinema.org/a/SdYnDZgnyKXPokehyBi5GQ29k)
