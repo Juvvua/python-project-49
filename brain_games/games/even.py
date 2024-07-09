@@ -4,8 +4,12 @@ import random
 TEXT = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
+def is_even(number):
+    return number % 2 == 0
+
+
 def get_correct_answer(question):
-    if question % 2 == 0:
+    if is_even(question):
         return 'yes'
     return 'no'
 

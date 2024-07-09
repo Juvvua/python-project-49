@@ -3,8 +3,8 @@ import random
 
 PROCEDURES = ['+', '-', '*']
 TEXT = 'What is the result of the expression?'
- 
- 
+
+
 def get_correct_answer(number1, procedure, number2):
     if procedure == '+':
         return number1 + number2
@@ -12,7 +12,7 @@ def get_correct_answer(number1, procedure, number2):
         return number1 - number2
     else:
         return number1 * number2
-        
+
 
 def make_question_and_answer():
     number1 = random.randint(0, 100)

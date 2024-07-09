@@ -3,6 +3,15 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/4e18993a9667fddd70d6/maintainability)](https://codeclimate.com/github/Juvvua/python-project-49/maintainability)
 
+В этом проекте написаны 5 игр:
+brain-calc - вычисляем и записываем правильный ответ на случайное математическое выражение
+brain-even - отвечаем yes, если число чётное, или no — если нечётное
+brain-gcd - вычисляем и вводим наибольший общий делитель двух случайных чисел
+brain-prime - отвечаем yes, если число простое, или no — если оно им не является
+brain-progression - вычисляем и вводим число, пропущенное в случайной арифметической прогрессии
+
+Для использованния данного проекта понадобится python3 и poetry, а для его установки нужно воспользоваться make instal
+
 [![asciicast](https://asciinema.org/a/LGzxF65owzCCodjxvXJdSyUj8.svg)](https://asciinema.org/a/LGzxF65owzCCodjxvXJdSyUj8)
 [![asciicast](https://asciinema.org/a/GVT4E8Nn9ekOWvugdhkaEyrGQ.svg)](https://asciinema.org/a/GVT4E8Nn9ekOWvugdhkaEyrGQ)
 [![asciicast](https://asciinema.org/a/P1E8qxmkT7VrV8ThAJdYdzobw.svg)](https://asciinema.org/a/P1E8qxmkT7VrV8ThAJdYdzobw)
